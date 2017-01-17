@@ -18,13 +18,15 @@ of a much longer sensing range. For the magnet sensing, in the real world, the c
 the direction, or where North is.The compass module can also be used in any circumstances that need to sense where 
 the nearest magnetic field is.
 
-3. Each robot should be able to communicate with other robots and sum up the numbers to collectively determine 
+3. 
+Each robot should be able to communicate with other robots and sum up the numbers to collectively determine 
 and display the “Next biggest” Grand Challenge according to the sum. For the third task to communicate, the XBee 
 chip was used to communicate among the team and LCD was used for result display. Arduino code was uploaded into 
 the bot for all the tasks. For XBee communication, any team of robots can communicate with each other and perform 
 team tasks, such as a robot soccer team or a robot dancing team.
 
-4. In the end, the whole team should perform a coordinated routine. By conducting this whole set of challenges, 
+4. 
+In the end, the whole team should perform a coordinated routine. By conducting this whole set of challenges, 
 an investigation into how a BOE-bot can be tasked on both a hardware and software level to perform several crucial 
 functions is launched.
 
