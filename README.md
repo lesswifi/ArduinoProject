@@ -1,5 +1,7 @@
 # ArduinoProject
 
+![alt text](https://github.com/lesswifi/ArduinoProject/blob/master/IMG_5117.JPG)
+
 For the Reverse-Engineer the Brain challenge, we had three main tasks. 
 
 1. 
